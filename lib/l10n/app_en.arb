@@ -1,0 +1,23 @@
+{
+    "user": "Username",
+    "pass": "Password",
+
+    "session_expired": "Sesión expired",
+    "sign_in_again": "Sign in again",
+    "accept": "Accept",
+    "retry": "Retry",
+
+    "error_timeout": "Connection error: Timeout",
+    "error_internet": "Internet connection failure",
+    "error_unhandled": "Unhandled error",
+    "error_bad_request": "Bad request",
+    "error_unauthorized": "Unauthorized",
+    "error_forbidden": "Unauthorized access",
+    "error_not_found": "Content not found",
+    "error_conflict": "Update conflict",
+    "error_request_entity_too_large": "Request too large",
+    "error_internal_server": "Server error processing the request",
+    "error_service_unavailable": "Server temporarily out of service",
+    "error_localization": "Error getting location",
+    "error_not_results": "No results"
+}

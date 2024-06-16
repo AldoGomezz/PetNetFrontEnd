@@ -1,0 +1,23 @@
+{
+    "user": "Usuario",
+    "pass": "Contraseña",
+
+    "session_expired": "Sesión expirada",
+    "sign_in_again": "Vuelve a iniciar sesión",
+    "accept": "Aceptar",
+    "retry": "Reintentar",
+
+    "error_timeout": "Error de conexión: Tiempo de espera agotado",
+    "error_internet": "Fallo en la conexión a internet",
+    "error_unhandled": "Error no controlado",
+    "error_bad_request": "Solicitud incorrecta",
+    "error_unauthorized": "No autorizado",
+    "error_forbidden": "Acceso no autorizado",
+    "error_not_found": "Contenido no encontrado",
+    "error_conflict": "Conflicto en la actualización",
+    "error_request_entity_too_large": "Solicitud demasiado grande",
+    "error_internal_server": "Error en el servidor al procesar la solicitud",
+    "error_service_unavailable": "Servidor temporalmente fuera de servicio",
+    "error_localization": "Error al obtener la localización",
+    "error_not_results": "No hay resultados"
+}
