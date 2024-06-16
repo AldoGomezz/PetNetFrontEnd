@@ -7,7 +7,7 @@
 Para clonar este proyecto, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-git clone https://github.com/{tu usuario}/pet_net_app.git
+git clone https://github.com/AldoGomezz/PetNetFrontEnd.git
 ```
 
 ## Instalar Dependencias
